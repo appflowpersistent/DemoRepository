@@ -1,0 +1,3 @@
+Red - #f00
+Green - #0ff
+Blue - #00f
